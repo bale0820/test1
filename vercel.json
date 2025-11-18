@@ -13,9 +13,6 @@
       "dest": "/index.html"
     }
   ],
-  "engines": {
-    "node": "18.x"
-  },
   "headers": [
     {
       "source": "/(.*)",
